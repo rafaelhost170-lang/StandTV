@@ -11,7 +11,7 @@
     <dateTimeUpload></dateTimeUpload>
     <description></description>
     <deviceName>M2003J15SC</deviceName>
-    <gitRemoteUrl></gitRemoteUrl>
+    <gitRemoteUrl>https://github.com/rafaelhost170-lang/StandTV.git</gitRemoteUrl>
     <isCastProject>false</isCastProject>
     <landscapeMode>false</landscapeMode>
     <listeningLanguageTag></listeningLanguageTag>
@@ -66,12 +66,12 @@
                   <brickId>b742b38f-8f82-40c3-aade-131363e8ac18</brickId>
                   <commentedOut>false</commentedOut>
                   <formulaList>
-                    <formula category="Y_POSITION">
+                    <formula category="X_POSITION">
                       <additionalChildren/>
                       <type>NUMBER</type>
                       <value>0</value>
                     </formula>
-                    <formula category="X_POSITION">
+                    <formula category="Y_POSITION">
                       <additionalChildren/>
                       <type>NUMBER</type>
                       <value>0</value>
@@ -108,15 +108,15 @@
                   <brickId>729a5858-0927-4062-a106-1e12dbd1a7b6</brickId>
                   <commentedOut>false</commentedOut>
                   <formulaList>
-                    <formula category="Y_POSITION">
-                      <additionalChildren/>
-                      <type>NUMBER</type>
-                      <value>0</value>
-                    </formula>
                     <formula category="X_POSITION">
                       <additionalChildren/>
                       <type>NUMBER</type>
                       <value>1080</value>
+                    </formula>
+                    <formula category="Y_POSITION">
+                      <additionalChildren/>
+                      <type>NUMBER</type>
+                      <value>0</value>
                     </formula>
                   </formulaList>
                 </brick>
@@ -154,15 +154,15 @@
                       <brickId>747573da-95e2-47c0-b181-6baf522fc9fb</brickId>
                       <commentedOut>false</commentedOut>
                       <formulaList>
-                        <formula category="Y_POSITION">
-                          <additionalChildren/>
-                          <type>NUMBER</type>
-                          <value>0</value>
-                        </formula>
                         <formula category="X_POSITION">
                           <additionalChildren/>
                           <type>NUMBER</type>
                           <value>1080</value>
+                        </formula>
+                        <formula category="Y_POSITION">
+                          <additionalChildren/>
+                          <type>NUMBER</type>
+                          <value>0</value>
                         </formula>
                       </formulaList>
                     </brick>
@@ -193,15 +193,15 @@
                   <brickId>2d35038a-e78e-457a-a8d9-933c7e7f664f</brickId>
                   <commentedOut>false</commentedOut>
                   <formulaList>
-                    <formula category="Y_POSITION">
-                      <additionalChildren/>
-                      <type>NUMBER</type>
-                      <value>0</value>
-                    </formula>
                     <formula category="X_POSITION">
                       <additionalChildren/>
                       <type>NUMBER</type>
                       <value>1080</value>
+                    </formula>
+                    <formula category="Y_POSITION">
+                      <additionalChildren/>
+                      <type>NUMBER</type>
+                      <value>0</value>
                     </formula>
                   </formulaList>
                 </brick>
@@ -239,15 +239,15 @@
                       <brickId>7a11fa30-f41e-409f-b547-6986d504283d</brickId>
                       <commentedOut>false</commentedOut>
                       <formulaList>
-                        <formula category="Y_POSITION">
-                          <additionalChildren/>
-                          <type>NUMBER</type>
-                          <value>0</value>
-                        </formula>
                         <formula category="X_POSITION">
                           <additionalChildren/>
                           <type>NUMBER</type>
                           <value>1080</value>
+                        </formula>
+                        <formula category="Y_POSITION">
+                          <additionalChildren/>
+                          <type>NUMBER</type>
+                          <value>0</value>
                         </formula>
                       </formulaList>
                     </brick>
